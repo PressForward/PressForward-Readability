@@ -5,6 +5,12 @@ This is a PHP port of Arc90's original Javascript version of Readability. (Arc90
 
 For instructions on how to use this, please see <http://www.keyvan.net/2010/08/php-readability/>
 
+This library has been updated for the PressForward project by the Roy Rosenzweig Center for History and New Media at George Mason University, through the Generous Support of the Alfred P. Sloan Foundation. 
+
+It was updated and continues to be maintained with the goal of allowing maximum use on a changing modern web.
+ - More information about PressForward: http://pressforward.org/
+ - This project lives on: https://github.com/PressForward/PressForward-Readability
+
 For a more flexible and robust solution to article extraction, take a look at [Full-Text RSS](http://fivefilters.org/content-only/) - it makes use of PHP Readability, but offers much more.
 
 Feel free to fork this and change/improve it. I would love to see your results. Please do share them and I'll consider pulling them in.
